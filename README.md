@@ -14,7 +14,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”"C:\Users\josan\Documents\Archive Santos\Delorean.jpg"" alt=”my banner”>
+<img width=”200" height=”200" src="C:\Users\josan\Documents\Archive Santos\Delorean.jpg" alt=”my banner”>
 
 </p>
 
