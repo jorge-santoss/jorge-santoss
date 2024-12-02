@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src=”Delorean.jpg" alt=”my banner”>
+  <img height="400" widht="400" src=”Delorean.jpg" alt=”my banner”>
 </p>
 
 <h1 align="center">Hi, I'm Jorge Santos</h1>
