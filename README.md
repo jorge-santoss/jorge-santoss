@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src="https://c4.wallpaperflare.com/wallpaper/727/296/877/rick-and-morty-sunset-rick-sanchez-delorean-wallpaper-preview.jpg">
+  <img src="Delorean.jpg">
 </p>
 
 <h1 align="center">Hi, I'm Jorge Santos</h1>
