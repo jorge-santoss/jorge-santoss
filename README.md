@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorge-santoss&label=Profile%20views&color=0e75b6&style=flat" alt="jorge-santoss" /> </p>
 
-- 📫 How to reach me **josantosnoguera@outlook.fr**
+<p align="center"> 📫 How to reach me **josantosnoguera@outlook.fr**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
