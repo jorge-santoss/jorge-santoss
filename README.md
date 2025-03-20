@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Jorge Santos</h1>
-<h3 align="center">Design and Development</h3>
+<h3 align="center">Web Development</h3>
 
 <p align="center">📫 How to reach me: jorge.santos@laplateforme.io</p>
 
