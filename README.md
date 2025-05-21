@@ -1,7 +1,7 @@
 <p align=”center”>
-  <img src="Delorean.jpg">
+<!--   <img src="Delorean.jpg"> -->
+  <img src="https://github.com/user-attachments/assets/dc06ca36-ee95-4aa5-9005-448e6e427931">
 </p>
-
 
 <h1 align="center">Hi, I'm Jorge Santos</h1>
 <h3 align="center">Web Development</h3>
